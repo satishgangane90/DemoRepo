@@ -4,7 +4,7 @@ public class TestClass {
 	
 	
 	
-public void print() {
+public void printone() {
 		
 		
 		
